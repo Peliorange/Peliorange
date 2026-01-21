@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Jennifer Celedón 👋👩‍💻
+### Ingeniera en Informática | Full Stack Developer | Entusiasta de la astronomia 🪐
 
-<!--
-**Peliorange/Peliorange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil! Soy una desarrolladora apasionada por crear soluciones digitales completas, desde la arquitectura del backend hasta la experiencia visual del frontend. Recientemente titulada en **Ingeniería en Informática**, me especializo en construir aplicaciones web y móviles escalables.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+
+- 🎓 **Formación:** Ingeniera en Informática egresada de Duoc UC.
+- 💻 **Enfoque:** Desarrollo Full Stack (Python/Django & React ecosystem).
+- 🔭 **Intereses:** Actualmente estoy profundizando en **React Native** y **Arquitectura de Software**. Me encanta fusionar la lógica de programación con el diseño UI/UX (¡y todo lo relacionado con el espacio!).
+- 🌱 **Mentalidad:** Autodidacta por naturaleza. Siempre estoy aprendiendo nuevas tecnologías para mantenerme al día.
+- 💼 **Estado:** Buscando mi primera oportunidad profesional para aportar valor y crecer en equipo.
+
+---
